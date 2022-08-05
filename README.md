@@ -3,7 +3,7 @@
 - 💬 Atualmente estou estagiando na área de suporte TI.
 - 🌱 Estou aprendendo algumas linguagens para se tornar um Full Stack.
 - 👯 Estou procurando estágio para adquirir mais conhecimento e experiencia profissional.
-- 📫 Como chegar até mim:  <a href = "email:vanessasouzaaraujoti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    <a href="https://www.linkedin.com/in/vanessa-souza97/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- 📫 Como chegar até mim:  <a href = "mailto:vanessasouzaaraujoti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    <a href="https://www.linkedin.com/in/vanessa-souza97/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 - 😄 Pronouns: Ela/dela
 
 <div align="center">
