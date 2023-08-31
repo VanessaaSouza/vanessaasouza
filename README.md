@@ -25,7 +25,7 @@
 ###
 <div> 
 
-  ![Snake animation](https://github.com/vanessaasouza/vanessaasouza/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/VanessaaSouza/VanessaaSouza/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
